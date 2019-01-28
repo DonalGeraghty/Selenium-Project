@@ -30,7 +30,7 @@ namespace SeleniumDemoCSharp
 
         [TearDown]
         public void AfterEachTest(){
-            driver.Close();
+            driver.Quit();
         }
     }
 }

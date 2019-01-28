@@ -5655,11 +5655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Code\\Selenium\\SeleniumDemoCSharp\\SeleniumDemoCSharp.csproj",
+      "projectUniqueName": "D:\\Code\\Selenium\\Selenium-Project\\SeleniumDemoCSHarp\\SeleniumDemoCSharp.csproj",
       "projectName": "SeleniumDemoCSharp",
-      "projectPath": "d:\\Code\\Selenium\\SeleniumDemoCSharp\\SeleniumDemoCSharp.csproj",
+      "projectPath": "D:\\Code\\Selenium\\Selenium-Project\\SeleniumDemoCSHarp\\SeleniumDemoCSharp.csproj",
       "packagesPath": "C:\\Users\\Donal\\.nuget\\packages\\",
-      "outputPath": "d:\\Code\\Selenium\\SeleniumDemoCSharp\\obj\\",
+      "outputPath": "D:\\Code\\Selenium\\Selenium-Project\\SeleniumDemoCSHarp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
