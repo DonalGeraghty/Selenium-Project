@@ -18,28 +18,29 @@
 
 <div>    
     <div class="margin-plus">
-        <ul>
-            <li>Coffee</li>
-            <li>Tea</li>
-            <li>Milk</li>
+        <ul id="s-list-drinks">
+            <li id="s-list-drinks-Coffee">Coffee</li>
+            <li id="s-list-drinks-Tea">Tea</li>
+            <li id="s-list-drinks-Milk">Milk</li>
         </ul>
     </div>
     
     <div class="margin-plus">
-        <select>
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="opel">Opel</option>
-            <option value="audi">Audi</option>
+        <select id="s-dropdown-cars">
+            <option id="s-dropdown-cars-Volvo" value="volvo">Volvo</option>
+            <option id="s-dropdown-cars-Saab" value="saab">Saab</option>
+            <option id="s-dropdown-cars-Opel" value="opel">Opel</option>
+            <option id="s-dropdown-cars-Audi" value="audi">Audi</option>
         </select>
     </div>
     
     <div class="margin-plus">
-        <button type="button" onclick="myFunction()">Click Me!</button> 
+        <button id="s-button-demo" type="button" onclick="myFunction()">Click Me!</button> 
+        <p id="s-paragraph-demo" id="demo"></p>
     </div>
 </div>
 
-<p id="demo"></p>
+
 <script>
 function myFunction() {
     document.getElementById("demo").innerHTML = "Hello World";

@@ -3,6 +3,6 @@ using System;
 namespace SeleniumDemoCSharp{
     public class Index : Navbar
     {
-        public Index(){}
+        public string paragraphContent { get; set; } = "s-paragraph-content";
     }
 }

@@ -20,12 +20,12 @@
 <p>The fieldset element is used to group related data in a form, and the legend element defines a caption for the fieldset element.</p>
 
 <div>
-  <input type="text" name="firstname" value="Mickey">
-  <input type="text" name="lastname" value="Mouse">
-  <button onclick="myFunction()">Click me!</button>
+  <input id="s-input-firstname" type="text" name="firstname" value="Mickey">
+  <input id="s-input-lastname" type="text" name="lastname" value="Mouse">
+  <button id="s-button" onclick="myFunction()">Click me!</button>
+  <p id="demo"></p>
 </div>
 
-<p id="demo"></p>
 <script>
 function myFunction() {
     document.getElementById("demo").innerHTML = "Hello World";

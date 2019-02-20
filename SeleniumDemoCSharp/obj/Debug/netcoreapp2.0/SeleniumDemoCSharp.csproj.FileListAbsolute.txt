@@ -25,3 +25,17 @@ d:\Code\Selenium\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\Sel
 d:\Code\Selenium\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\SeleniumDemoCSharp.pdb
 d:\Code\Selenium\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.dll
 d:\Code\Selenium\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.pdb
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\SeleniumDemoCSharp.deps.json
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\SeleniumDemoCSharp.runtimeconfig.json
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\SeleniumDemoCSharp.runtimeconfig.dev.json
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\SeleniumDemoCSharp.dll
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\bin\Debug\netcoreapp2.0\SeleniumDemoCSharp.pdb
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.csprojAssemblyReference.cache
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.csproj.CoreCompileInputs.cache
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.AssemblyInfoInputs.cache
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.AssemblyInfo.cs
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.dll
+D:\Computing\Selenium-Project\SeleniumDemoCSharp\obj\Debug\netcoreapp2.0\SeleniumDemoCSharp.pdb

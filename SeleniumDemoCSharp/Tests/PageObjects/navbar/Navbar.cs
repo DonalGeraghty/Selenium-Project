@@ -4,10 +4,8 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
 namespace SeleniumDemoCSharp{
-    public class Navbar : PageObject
+    public class Navbar
     {
-        public Navbar(){}
-
         public string linkIndex { get; set; } = "s-index";
         public string linkNews { get; set; } = "s-news";
         public string linkContact { get; set; } = "s-contact";
